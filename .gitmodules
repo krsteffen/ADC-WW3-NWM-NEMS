@@ -18,3 +18,7 @@
 	path = NWM
 	url = https://github.com/trimbleava/nwm_public_nuopc.git
 	branch = master
+[submodule "ADCIRC"]
+	path = ADCIRC
+	url = git@github.com:GM-Ling/adcirc-cg.git
+	branch = ND_v55_NEMS
