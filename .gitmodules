@@ -20,5 +20,5 @@
 	branch = master
 [submodule "ADCIRC"]
 	path = ADCIRC
-	url = git@github.com:GM-Ling/adcirc-cg.git
+	url = https://github.com/GM-Ling/adcirc-cg.git
 	branch = ND_v55_NEMS
