@@ -14,10 +14,6 @@
 	path = NEMS
 	url = https://github.com/moghimis/NEMS
 	branch = develop
-[submodule "ADCIRC"]
-	path = ADCIRC
-	url = git@github.com:GM-Ling/adcirc-cg.git
-	branch = ND_v55_NEMS
 [submodule "NWM"]
 	path = NWM
 	url = https://github.com/trimbleava/nwm_public_nuopc.git
