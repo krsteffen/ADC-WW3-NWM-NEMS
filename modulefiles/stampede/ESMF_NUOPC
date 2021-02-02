@@ -1,0 +1,13 @@
+#%Module######################################################################
+
+# This script is responsible for loading modules that are compatible with
+# the NUOPC Layer version used in NEMS.
+
+module load intel/17.0.4
+module load impi/17.0.3
+module load netcdf/4.3.3.1
+module load hdf5/1.8.16
+module load esmf/8.0.1
+module load nems/0.0.1
+
+#
